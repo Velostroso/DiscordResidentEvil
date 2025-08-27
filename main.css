@@ -1,6 +1,9 @@
 :root, 
 .visual-refresh, 
 .visual-refresh.theme-dark {
+    --home-icon-image: unset;
+    --home-icon-zoon: unset;
+    --home-icon-image-position: center;
     --highlight: rgb(var(--rgb-highlight));
     --rgb-background: 0, 0, 0;
     --background: rgb(var(--rgb-background));
@@ -484,3 +487,4 @@ img[src*="avatars/137259132305539072"] + .header_c19a55:hover::after, img[src*="
     line-height: 16px;
     color: rgb(var(--rgb-highlight))
 }
+
