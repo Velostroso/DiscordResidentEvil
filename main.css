@@ -1,4 +1,4 @@
-﻿:root, 
+:root, 
 .visual-refresh, 
 .visual-refresh.theme-dark {
     --highlight: rgb(var(--rgb-highlight));
@@ -227,6 +227,10 @@
 
 .theme-dark .appMount__51fd7, .theme-dark .app__160d8, .theme-dark .bg__960e4, .theme-dark .guilds_c48ade, .theme-dark .scroller_ef3116, .theme-dark .sidebar_c48ade, .theme-dark .sidebar_c48ade::after, .theme-dark .container__2637a, .theme-dark .chat_f75fb0, .theme-dark .chatContent_f75fb0, .theme-dark .title_f75fb0, .theme-dark .searchBar__97492, .theme-dark .container_c8ffbb, .theme-dark .members_c8ffbb, .theme-dark .content_f75fb0, .theme-dark .container__91a9d, .theme-dark .channelTextArea__74017, .theme-dark .container__133bf, .theme-dark .section__00943, .theme-dark .nowPlayingColumn__133bf, .theme-dark .container__7d20c, .theme-dark .itemCard__7e549, .theme-dark .section__00943, .theme-dark .inset_bf1984, .theme-dark .container__9293f, .theme-dark .privateChannels__35e86, .theme-dark .scroller__99e7c, .theme-dark .layer__960e4, .theme-dark .standardSidebarView__23e6b, .theme-dark .sidebarRegionScroller__23e6b, .theme-dark .contentRegion__23e6b, .theme-dark .contentRegionScroller__23e6b, .theme-dark .container__4a84a, .theme-dark .stickyHeader_adb41f, .theme-dark .scroller_fb04e1, .theme-dark .pageWrapper_a3a4ce, .theme-dark .footer__214dc, .theme-dark .container_f369db {
     background: rgba(0,0,0,0) !important
+}
+
+.guilds_c48ade {
+    background: rgb(255 0 0) !important;
 }
 
 .theme-dark #app-mount .wrapper__44b0c rect[fill="#593695"], .theme-dark #app-mount .wrapper__44b0c rect[mask*=streaming] {
