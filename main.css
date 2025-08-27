@@ -166,53 +166,6 @@
     --profile-gradient-primary-color: var(--rgb-background);
     --profile-gradient-secondary-color: var(--rgb-background);
     --bg-brand: var(--highlight);
-    --brand-experiment: var(--highlight);
-    --brand-experiment-100: var(--highlight);
-    --brand-experiment-130: var(--highlight);
-    --brand-experiment-160: var(--highlight);
-    --brand-experiment-200: var(--highlight);
-    --brand-experiment-230: var(--highlight);
-    --brand-experiment-260: var(--highlight);
-    --brand-experiment-300: var(--highlight);
-    --brand-experiment-330: var(--highlight);
-    --brand-experiment-360: var(--highlight);
-    --brand-experiment-400: var(--highlight);
-    --brand-experiment-430: var(--highlight);
-    --brand-experiment-460: var(--highlight);
-    --brand-experiment-500: var(--highlight);
-    --brand-experiment-530: var(--highlight);
-    --brand-experiment-560: var(--highlight);
-    --brand-experiment-600: var(--highlight);
-    --brand-experiment-630: var(--highlight);
-    --brand-experiment-660: var(--highlight);
-    --brand-experiment-700: var(--highlight);
-    --brand-experiment-730: var(--highlight);
-    --brand-experiment-760: var(--highlight);
-    --brand-experiment-800: var(--highlight);
-    --brand-experiment-830: var(--highlight);
-    --brand-experiment-860: var(--highlight);
-    --brand-experiment-900: var(--highlight);
-    --brand-experiment-930: var(--highlight);
-    --brand-experiment-960: var(--highlight);
-    --brand-experiment-05a: var(--highlight);
-    --brand-experiment-10a: var(--highlight);
-    --brand-experiment-15a: var(--highlight);
-    --brand-experiment-20a: var(--highlight);
-    --brand-experiment-25a: var(--highlight);
-    --brand-experiment-30a: var(--highlight);
-    --brand-experiment-35a: var(--highlight);
-    --brand-experiment-40a: var(--highlight);
-    --brand-experiment-45a: var(--highlight);
-    --brand-experiment-50a: var(--highlight);
-    --brand-experiment-55a: var(--highlight);
-    --brand-experiment-60a: var(--highlight);
-    --brand-experiment-65a: var(--highlight);
-    --brand-experiment-70a: var(--highlight);
-    --brand-experiment-75a: var(--highlight);
-    --brand-experiment-80a: var(--highlight);
-    --brand-experiment-85a: var(--highlight);
-    --brand-experiment-90a: var(--highlight);
-    --brand-experiment-95a: var(--highlight);
     --primary-630: var(--background);
     --border-faint: rgb(var(--rgb-highlight));
     --border-subtle: rgb(var(--rgb-highlight));
@@ -498,6 +451,7 @@ img[src*="avatars/137259132305539072"] + .header_c19a55:hover::after, img[src*="
     line-height: 16px;
     color: rgb(var(--rgb-highlight))
 }
+
 
 
 
