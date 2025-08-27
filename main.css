@@ -230,10 +230,6 @@
     fill: var(--online-color)
 }
 
-.focusTarget__89030 {
-    color: var(--highlight-focus)
-}
-
 .theme-dark #app-mount .wrapper__44b0c rect[fill="#faa61a"], .theme-dark #app-mount .wrapper__44b0c rect[mask*=idle] {
     fill: var(--afk-color)
 }
@@ -477,6 +473,7 @@ img[src*="avatars/137259132305539072"] + .header_c19a55:hover::after, img[src*="
     line-height: 16px;
     color: rgb(var(--rgb-highlight))
 }
+
 
 
 
