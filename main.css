@@ -240,6 +240,10 @@
     fill: var(--streaming-color)
 }
 
+.childWrapper__6e9f8.childWrapperNoHoverBg__6e9f8 svg {
+    opacity: 0 !important;
+}
+
 .listItemWrapper__91816 .wrapper_cc5dd2 .wrapper__6e9f8 .childWrapper__6e9f8.childWrapperNoHoverBg__6e9f8 {
     background-image: var(--home-icon-image);
     background-size: var(--home-icon-image-zoom);
@@ -494,6 +498,7 @@ img[src*="avatars/137259132305539072"] + .header_c19a55:hover::after, img[src*="
     line-height: 16px;
     color: rgb(var(--rgb-highlight))
 }
+
 
 
 
